@@ -43,8 +43,12 @@ Visualization Examples
 -----
 
 ### Grid version (Astar, Dijkstra)
-<img src="./results/toy_example_astar.png" width="200" height="200">
-<img src="./results/toy_example_dijkstra.png" width="200" height="200">
+
+<p align="left">
+    <img src="./results/toy_example_astar.png" width="200" height="200">
+    <img src="./results/toy_example_dijkstra.png" width="200" height="200">
+</p>
+
 
 ### Real world version with folium (Ulsan, Korea)
 <img src="./results/astar_ulsan.png" width="200" height="200">
@@ -58,4 +62,4 @@ Reference
 [1] [Dijkstra](https://dl.acm.org/doi/abs/10.1145/3544585.3544600?casa_token=tv0wov33mqsAAAAA%3AMEwRZs1zDOPRaKYVa3VVnndgImcZbjDkfU9jC4mvP3wqFcCt_zyU0azSvnPeNXGW3VZPUw4x4ipsfw): A Note on Two Problems in Connexion with Graphs  
 [2] [Astar](https://ieeexplore.ieee.org/abstract/document/4082128/): A Formal Basis for the Heuristic Determination of Minimum Cost Paths   
 [3] [Bi-directional dijkstra](https://books.google.co.kr/books?hl=ko&lr=&id=7fYS29re860C&oi=fnd&pg=PA422&dq=Parallel+Bidirectional+Dijkstra%E2%80%99s+Shortest++Path+Algorithm+&ots=60XVWciqTP&sig=8bcA3wFCcugOfVU_PZ897otCjhM&redir_esc=y#v=onepage&q=Parallel%20Bidirectional%20Dijkstra%E2%80%99s%20Shortest%20%20Path%20Algorithm&f=false): Parallel Bidirectional Dijkstra’s Shortest Path Algorithm    
-[5] [Bi-directional astar with consistent approach](https://faculty.cc.gatech.edu/~thad/6601-gradAI-fall2012/02-search-Goldberg03tr.pdf): Computing the Shortest Path: A∗ Search Meets Graph Theory   
+[4] [Bi-directional astar with consistent approach](https://faculty.cc.gatech.edu/~thad/6601-gradAI-fall2012/02-search-Goldberg03tr.pdf): Computing the Shortest Path: A∗ Search Meets Graph Theory   
