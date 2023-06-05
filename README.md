@@ -3,7 +3,7 @@ Route Planning Algorithms
 
 Route planning algorithms are used to find feasible (or optimal) path from start node to goal node in graph datastructure. In this repository, you guys can use three types of route planning algorithms: grid world version, simple toy problem version, and real world version.
 
-Python module requirements for visualization
+Python Module Requirements for Visualization
 -----
 
 * folium
