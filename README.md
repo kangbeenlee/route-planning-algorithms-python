@@ -13,7 +13,7 @@ Python Module Requirements for Visualization
 Cautions
 -----
 
-* All codes in this repository are written in 2021 (when I was **"novice"** in python). So, there can be lots of unreasonable progamming styples. Please understand.
+* All codes in this repository are written in 2021 (when I was **"novice"** in python). So, there can be lots of strange progamming styles. Please understand.
 
 Details
 -----
